@@ -1,3 +1,8 @@
+# v2.4.3
+
+* Fixed the mod not working on android.
+* Updated for the latest geode.
+
 # v2.4.1
 
 * Added Auto Clicker keybind.
